@@ -1,0 +1,12 @@
+SEED = 42
+DATA_DIR = "data/UCI HAR Dataset"
+RESULTS_DIR = "results"
+LEVELS = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+KINDS = ["gaussian", "missing", "ood"]
+METHODS = ["none", "pca", "lda"]
+CLASSIFIERS = ["knn", "gnb"]
+N_FOLDS = 5
+PCA_VAR = 0.95
+LDA_DIMS = 5   # n_classes - 1
+KNN_K = 5
+ACTIVITIES = ["WALKING", "UPSTAIRS", "DOWNSTAIRS", "SITTING", "STANDING", "LAYING"]
