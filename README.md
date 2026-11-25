@@ -27,6 +27,7 @@ Or open `notebooks/03_results.ipynb` and Run All.
 | `src/experiments/` | CV sweep + plots | TBD |
 
 ## Contributions
-- **Name:** ...
-- **Name:** ...
-- **Name:** ...
+- **Name:** Yuva Mani Teja Kokku
+- **Name:** Harsha Adinarayanaraju Lolabattu
+- **Name:** Litheesh Velakaturi Rambabu
+  
